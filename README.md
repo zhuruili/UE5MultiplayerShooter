@@ -30,3 +30,4 @@ NULL
 ## 参考资料
 
 - [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/)
+- [MultiplayerCourseBlasterGame](https://github.com/DruidMech/MultiplayerCourseBlasterGame)
