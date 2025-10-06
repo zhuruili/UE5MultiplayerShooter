@@ -1,6 +1,6 @@
 # UE5 Multiplayer Shooter
 
-希望能通过记录进度的方式激励自己学习虚幻引擎游戏开发（6/169）
+希望能通过记录进度的方式激励自己学习虚幻引擎游戏开发（11/169）
 
 ## 开发进度
 
@@ -15,6 +15,8 @@ NULL
 NULL
 
 ## 内容目录
+
+教程的原作者其实已经将整个工程文件同步到Github平台了，所以这里我就不再重复上传了，主要记录一些笔记内容
 
 ### 工程
 
@@ -31,3 +33,4 @@ NULL
 
 - [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/)
 - [MultiplayerCourseBlasterGame](https://github.com/DruidMech/MultiplayerCourseBlasterGame)
+- [unreal-engine-documentation](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/unreal-engine-5-6-documentation)
